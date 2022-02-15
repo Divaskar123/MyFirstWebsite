@@ -1,0 +1,12 @@
+p{
+background-color:cyan;
+    text-align: center;
+    color:gray;
+    font-size: 35px;
+}
+body{
+    background-image: url("https://images.pexels.com/photos/1591447/pexels-photo-1591447.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+    background-position: center;
+    background-size: cover;
+    
+}
